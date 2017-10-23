@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ConWayGOFViewController.h
 //  OCTest
 //
 //  Created by developer on 2017/10/19.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ConWayGOFViewController : UIViewController
 
 @end
-
